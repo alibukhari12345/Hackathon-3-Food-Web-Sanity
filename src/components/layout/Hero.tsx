@@ -1,10 +1,7 @@
 "use client"
 import Image from 'next/image';
 import React from 'react'
-import { FaFacebookF } from "react-icons/fa";
-import { FaTwitter } from "react-icons/fa";
 import  heroimg from "../../../public/heroimgg.png"
-import { FaPinterestP } from "react-icons/fa6";
 const Hero = () => {
   return (
     <div className='lg:flex lg:gap-[100px] lg:px-[100px] px-6 lg:pt-[101px] pt-[50px]' >
